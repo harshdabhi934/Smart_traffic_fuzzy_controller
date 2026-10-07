@@ -525,7 +525,6 @@ Additional screenshots, reports, presentations, or datasets can be added as requ
 |---|---|
 | HARSH DABHI | https://www.linkedin.com/in/harsh-dabhi |
 
-> **Note:** Replace `demo-user` with your actual LinkedIn username/profile URL.
 
 ---
 
