@@ -523,7 +523,7 @@ Additional screenshots, reports, presentations, or datasets can be added as requ
 
 | Name | LinkedIn |
 |---|---|
-| Your Name | [linkedin.com/in/demo-user](https://www.linkedin.com/in/demo-user) |
+| HARSH DABHI | https://www.linkedin.com/in/harsh-dabhi |
 
 > **Note:** Replace `demo-user` with your actual LinkedIn username/profile URL.
 
